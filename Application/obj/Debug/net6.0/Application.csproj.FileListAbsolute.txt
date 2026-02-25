@@ -1,0 +1,15 @@
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\bin\Debug\net6.0\Application.dll
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.dll
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\f.castillo8\.gemini\antigravity\scratch\ACT06-RESTful-API-DB-MultiTenancy\Application\obj\Debug\net6.0\ref\Application.dll

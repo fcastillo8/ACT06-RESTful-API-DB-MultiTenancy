@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xT8nYJC95JePeDhqGjeAb76P03yb35kQEKImlxE39SqAGz+W8DrhdqZ1+/55MCizd69yZfjehzrmrRUC4w6hgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f.castillo8\\.gemini\\antigravity\\scratch\\ACT06-RESTful-API-DB-MultiTenancy\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f.castillo8\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\f.castillo8\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
